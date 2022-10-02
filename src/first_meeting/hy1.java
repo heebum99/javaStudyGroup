@@ -1,3 +1,5 @@
+package first_meeting;
+
 import java.util.Scanner;
 
 //switch문으로 학점 매기기
