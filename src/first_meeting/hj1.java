@@ -1,3 +1,5 @@
+package first_meeting;
+
 import java.util.Scanner;
 
 //가위바위보 게임을 통해 승자 결정
