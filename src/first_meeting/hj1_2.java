@@ -1,9 +1,11 @@
+package first_meeting;
+
 import java.util.Scanner;
 
 public class hj1_2 {
 
     //가위 바위 보 게임을 메서드를 통해 작성
-    //이하 규칙은 hj1.java와 동일
+    //이하 규칙은 first_meeting.hj1.java와 동일
 
     static String input(String player) {
         String pick; //주먹 가위 보 중 선택한 것
