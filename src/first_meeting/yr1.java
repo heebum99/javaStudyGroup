@@ -1,3 +1,5 @@
+package first_meeting;
+
 import java.util.Scanner;
 
 public class yr1 {
