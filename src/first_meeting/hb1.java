@@ -1,3 +1,5 @@
+package first_meeting;
+
 import java.util.Scanner;
 
 //양수 5개 입력받아 배열에 저장, 제일 큰 수를 출력하라
