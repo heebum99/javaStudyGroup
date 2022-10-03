@@ -10,10 +10,10 @@ import java.util.Scanner;
 
 class Info{
     //필드
-    int student_id;
-    String name;
-    String department;
-    String hobby;
+    private int student_id;
+    private String name;
+    private String department;
+    private String hobby;
     
     //생성자
     //학번,이름,학과,취미 4개를 매개변수로 받는 생성자
